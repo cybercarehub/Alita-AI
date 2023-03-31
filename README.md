@@ -7,7 +7,7 @@ Alita is an AI chat bot built using Python and various machine learning librarie
 <h2>Installation</h2>
 To install Alita, you will need to have Python 3.x installed on your computer. You can then clone the repository to your local machine:<br>
 
-<code>git clone https://github.com/cybercarehub/alita.git</code> <br>
+<code>git clone https://github.com/cybercarehub/Alita-AI</code> <br>
 Next, install the required packages:<br>
 
 <code>pip install -r requirements.txt</code><br>
