@@ -1,39 +1,38 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Alita Chatbot</title>
-    <style>
-      /* Add your custom styles here */
-    </style>
-  </head>
-  <body>
-    <header>
-      <h1>Alita AI</h1>
-      <p>An AI-powered chatbot that can respond to user messages.</p>
-    </header>
-    <main>
-      <h2>About</h2>
-      <p>The Alita Chatbot is a machine learning model that uses natural language processing to analyze user input and generate responses. It is built using Python and the TensorFlow library.</p>
-      
-      <h2>Installation</h2>
-      <ol>
-        <li>Clone the repository: <code>git clone https://github.com/yourusername/alita-chatbot.git</code></li>
-        <li>Install the required packages: <code>pip install -r requirements.txt</code></li>
-        <li>Run the chatbot: <code>python chatbot.py</code></li>
-      </ol>
-      
-      <h2>Usage</h2>
-      <p>To use the Alita Chatbot, simply start the program and enter your messages in the console. The chatbot will analyze your input and generate a response based on its training data.</p>
-      
-      <h2>Contributing</h2>
-      <p>Contributions are always welcome! To contribute to the Alita Chatbot, please fork the repository and create a pull request with your changes.</p>
-      
-      <h2>Credits</h2>
-      <p>The Alita Chatbot was created by Jane Doe.</p>
-    </main>
-    <footer>
-      <p>&copy; 2023 Jane Doe</p>
-    </footer>
-  </body>
-</html>
+<h1>Alita - An AI Chat Bot</h1>
+<h2>Overview</h2>
+Alita is an AI chat bot built using Python and various machine learning libraries. It is designed to help users communicate with GitHub, and perform various actions such as search for repositories, open issues, manage pull requests, and access documentation. Alita uses natural language processing (NLP) and sentiment analysis to understand user requests and provide personalized responses.
+
+<h2>Alita Demo<h2>
+
+<h2>Installation</h2>
+To install Alita, you will need to have Python 3.x installed on your computer. You can then clone the repository to your local machine:
+
+<code>
+git clone https://github.com/cybercarehub/alita.git</code>
+Next, install the required packages:
+
+<code>
+pip install -r requirements.txt</code>
+
+<h2>Usage</h2>
+To start using Alita, run the following command in your terminal:
+
+<code>
+python main.py</code>
+
+You will then be prompted to enter your GitHub credentials, which will be securely stored in a configuration file for future use. Once authenticated, you can start chatting with Alita and asking for assistance with various GitHub tasks.
+
+<h2>Features</h2>
+Alita comes with a variety of features, including:
+
+<h2>Natural language processing (NLP) and sentiment analysis for personalized responses</h2>
+Search for repositories
+Open and close issues
+Manage pull requests
+Access documentation
+Contributing
+If you would like to contribute to the development of Alita, please fork the repository and submit a pull request. We welcome all contributions, including bug fixes, feature additions, and documentation updates.
+
+
+<h2>License</h2>
+This project is licensed under the MIT License - see the LICENSE.md file for details.
