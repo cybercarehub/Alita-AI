@@ -1,1 +1,3 @@
-# ChatGPT-with-Web-Bots
+Alita is an automated conversational system that uses artificial intelligence and machine learning algorithms to communicate with users on GitHub. It can be integrated into GitHub to help automate tasks, provide information and support, and assist users in navigating the platform.
+
+Some of the features of an AI chatbot for GitHub may include natural language processing (NLP), sentiment analysis, and machine learning models that enable it to understand user requests and provide personalized responses. It can also help users to search for repositories, open issues, manage pull requests, and access documentation.
