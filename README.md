@@ -9,13 +9,13 @@ To install Alita, you will need to have Python 3.x installed on your computer. Y
 
 <code>
 git clone https://github.com/cybercarehub/alita.git</code> <br>
-Next, install the required packages:<br>
+Next, install the required packages:
 
 <code>
 pip install -r requirements.txt</code><br>
 
 <h2>Usage</h2>
-To start using Alita, run the following command in your terminal:<br>
+To start using Alita, run the following command in your terminal:
 
 <code>
 python main.py</code><br>
@@ -32,6 +32,7 @@ Manage pull requests<br>
 Access documentation<br>
   
 <h2>Contributing<h2>
+  
 If you would like to contribute to the development of Alita, please fork the repository and submit a pull request. We welcome all contributions, including bug<br> fixes, feature additions, and documentation updates.<br>
 
 
